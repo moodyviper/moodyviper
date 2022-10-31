@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!-- [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@me)  -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Data+Science+Aspirant;)](https://git.io/typing-svg)
-- 👋 Hi, I’m @moodyviper
+
 - 👀 I’m interested in Exloring Data Science
 - 🌱 I’m currently learning machine Learning
 - 📫 How to reach me - tejasvirat136@gmail.com

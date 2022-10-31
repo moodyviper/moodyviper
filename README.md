@@ -2,7 +2,7 @@
 moodyviper/moodyviper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi, I'm Tejas (:computer:)
+#Hi, I'm **Tejas V** :joy: 
 
 
 
@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Data+Science+Aspirant;)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Exloring Data Science
-- 🌱 I’m currently learning machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me - tejasvirat136@gmail.com

@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Welcome+to+My+Profile!;Nice+to+e-meet+you!!;I'm+a+Data+Science+Aspirant;)](https://git.io/typing-svg)
 
-- 👀 I’m interested in Exploring Data Science
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me - tejasvirat136@gmail.com
+- 👀 Completed Bachelor's Degree in Data Science
+- 🌱 Have done Projects using Machine Learning
+- 📫 How to reach me - tejas.36@outlook.com

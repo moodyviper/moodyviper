@@ -14,4 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 Completed Bachelor's Degree in Data Science
 - 🌱 Have done Projects using Machine Learning
-- 📫 How to reach me - tejas.36@outlook.com
+- I am passionate about problem solving and continuous learning in search for new ways to broaden my technical abilities and knowledge.
+  In my spare time, I stay up with the newest trends and breakthroughs in the area, and especially intrigued in new data-related ideas.
+  I'm thrilled to make a contribution to the field of data analytics.
+- 📫 How to reach me - tejas.136@outlook.com
